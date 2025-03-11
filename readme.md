@@ -11,7 +11,7 @@ Repository with the go-rest tests
 
 ## Installation
 
-Install with npm
+Install with npm 
 
 ```bash
   npm install
